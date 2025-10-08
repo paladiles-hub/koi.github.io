@@ -1,23 +1,41 @@
 import { Card, CardContent } from "@/components/ui/card";
-import ramenImage from "@/assets/ramen.jpg";
-import sashimiImage from "@/assets/sashimi.jpg";
-import tempuraImage from "@/assets/tempura.jpg";
+import combinadoImage from "@/assets/combinado.jpg";
+import sashimiImage from "@/assets/sashimi-new.jpg";
+import pokeImage from "@/assets/poke.gif";
+import temakiImage from "@/assets/temaki.jpg";
+import teppanImage from "@/assets/teppan.jpg";
+import yakisobaImage from "@/assets/yakisoba.jpg";
 
 const menuItems = [
   {
-    name: "Ramen",
-    description: "Tradicional sopa japonesa com massa artesanal e caldo rico em sabores",
-    image: ramenImage,
+    name: "Combinados",
+    description: "Seleção especial com variedades de sushis, sashimis e rolls frescos",
+    image: combinadoImage,
   },
   {
     name: "Sashimi",
-    description: "Peixes frescos cortados em fatias finas, servidos com wasabi e gengibre",
+    description: "Fatias premium de peixes frescos seleccionados com gergelim tostado",
     image: sashimiImage,
   },
   {
-    name: "Tempura",
-    description: "Frutos do mar e vegetais empanados em massa leve e crocante",
-    image: tempuraImage,
+    name: "Poke",
+    description: "Bowl havaiiano com peixe fresco, legumes coloridos e temperos especiais",
+    image: pokeImage,
+  },
+  {
+    name: "Temaki",
+    description: "Cone de alga nori recheado com salmão fresco e ingredientes selecionados",
+    image: temakiImage,
+  },
+  {
+    name: "Teppan Yaki",
+    description: "Peixe grelhado na chapa quente acompanhado de legumes frescos",
+    image: teppanImage,
+  },
+  {
+    name: "Yakisoba",
+    description: "Macarrão salteado com frutos do mar, legumes e molho especial",
+    image: yakisobaImage,
   },
 ];
 
