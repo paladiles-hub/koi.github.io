@@ -14,12 +14,12 @@ const menuItems = [
   },
   {
     name: "Sashimi",
-    description: "Fatias premium de peixes frescos seleccionados com gergelim tostado",
+    description: "Fatias de peixe cru fresco, servidas com gengibre e wasabi",
     image: sashimiImage,
   },
   {
     name: "Poke",
-    description: "Bowl havaiiano com peixe fresco, legumes coloridos e temperos especiais",
+    description: "Bowl personalizado com peixes frescos e acompanhamentos como frutas e legumes a escolha",
     image: pokeImage,
   },
   {
@@ -29,12 +29,12 @@ const menuItems = [
   },
   {
     name: "Teppan Yaki",
-    description: "Peixe grelhado na chapa quente acompanhado de legumes frescos",
+    description: "Peixe grelhado na chapa quente acompanhado de legumes frescos, arroz e missoshiru",
     image: teppanImage,
   },
   {
     name: "Yakisoba",
-    description: "Macarrão salteado com frutos do mar, legumes e molho especial",
+    description: "Macarrão salteado com carne, frango ou frutos do mar, legumes e molho especial",
     image: yakisobaImage,
   },
 ];

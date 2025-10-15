@@ -9,7 +9,7 @@ const About = () => {
           <div className="w-20 h-1 bg-gradient-to-r from-secondary to-accent mx-auto mb-8" />
           <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
             No Koi, celebramos a rica tradição da culinária japonesa com ingredientes frescos 
-            e preparações autênticas. Cada prato é uma obra de arte cuidadosamente elaborada 
+            e preparações autênticas. Cada prato é cuidadosamente elaborado por nossos chefs 
             para proporcionar uma experiência gastronômica inesquecível.
           </p>
           <p className="text-lg text-muted-foreground leading-relaxed">

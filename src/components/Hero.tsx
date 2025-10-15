@@ -23,7 +23,7 @@ const Hero = () => {
             Koi
           </h1>
           <p className="text-xl sm:text-2xl lg:text-3xl text-primary-foreground/90 mb-8 font-light">
-            Culinária Japonesa
+            Gastronomia Japonesa
           </p>
           <p className="text-lg sm:text-xl text-primary-foreground/80 mb-12 max-w-2xl">
             Descubra a autenticidade da cozinha japonesa em cada prato, onde tradição e frescor se encontram.
@@ -64,8 +64,8 @@ const Hero = () => {
           <div className="flex items-start gap-3 text-primary-foreground/70">
             <MapPin className="h-5 w-5 mt-1 flex-shrink-0" />
             <p className="text-sm sm:text-base">
-              Rua Capitao Jose Gomes 265<br />
-              Mococa, BR 13730-060
+              Rua Capitao Jose Gomes, 265<br />
+              Mococa, Sao Paulo
             </p>
           </div>
         </div>
